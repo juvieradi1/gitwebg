@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-<title>Documento sin t&iacute;tulo</title>
+<title>admision</title>
 <style type="text/css">
 <!--
 .Estilo1 {
